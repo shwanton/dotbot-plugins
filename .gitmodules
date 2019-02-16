@@ -10,3 +10,6 @@
 [submodule "dotbot-sync"]
 	path = dotbot-sync
 	url = git@github.com:j1r1k/dotbot-sync.git
+[submodule "dotbot-vscode"]
+	path = dotbot-vscode
+	url = git@github.com:hujianxin/dotbot-vscode.git
