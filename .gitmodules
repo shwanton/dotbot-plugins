@@ -7,3 +7,6 @@
 [submodule "dotbot-pip"]
 	path = dotbot-pip
 	url = git@github.com:sobolevn/dotbot-pip.git
+[submodule "dotbot-sync"]
+	path = dotbot-sync
+	url = git@github.com:j1r1k/dotbot-sync.git
