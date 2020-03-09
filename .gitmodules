@@ -19,3 +19,6 @@
 [submodule "dotbot-golang"]
 	path = dotbot-golang
 	url = https://github.com/delicb/dotbot-golang
+[submodule "dotbot-duti"]
+	path = dotbot-duti
+	url = https://github.com/andrejreznik/dotbot-duti.git
