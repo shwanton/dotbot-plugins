@@ -16,3 +16,6 @@
 [submodule "dotbot-rust"]
 	path = dotbot-rust
 	url = https://github.com/alexcormier/dotbot-rust
+[submodule "dotbot-golang"]
+	path = dotbot-golang
+	url = https://github.com/delicb/dotbot-golang
