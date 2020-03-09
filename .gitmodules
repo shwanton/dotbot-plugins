@@ -13,3 +13,6 @@
 [submodule "dotbot-vscode"]
 	path = dotbot-vscode
 	url = git@github.com:hujianxin/dotbot-vscode.git
+[submodule "dotbot-rust"]
+	path = dotbot-rust
+	url = https://github.com/alexcormier/dotbot-rust
