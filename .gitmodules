@@ -18,6 +18,7 @@
 	path = dotbot-vscode
 	url = https://github.com/hujianxin/dotbot-vscode
 	branch = master
+	ignore = dirty
 [submodule "dotbot-rust"]
 	path = dotbot-rust
 	url = https://github.com/alexcormier/dotbot-rust
