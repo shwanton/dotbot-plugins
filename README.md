@@ -4,9 +4,7 @@
 
 ### Update git submodules
 
-`git submodule update --remote --recursive --init`
-
-`git pull --recurse-submodules`
+`git submodule update --remote --init --recursive`
 
 ### Plugins
 

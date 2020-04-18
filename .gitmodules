@@ -1,24 +1,32 @@
 [submodule "dotbot-asdf"]
 	path = dotbot-asdf
 	url = git@github.com:sobolevn/dotbot-asdf.git
+	branch = master
 [submodule "dotbot-brew"]
 	path = dotbot-brew
 	url = git@github.com:d12frosted/dotbot-brew.git
+	branch = master
 [submodule "dotbot-pip"]
 	path = dotbot-pip
 	url = git@github.com:sobolevn/dotbot-pip.git
+	branch = master
 [submodule "dotbot-sync"]
 	path = dotbot-sync
 	url = git@github.com:j1r1k/dotbot-sync.git
+	branch = master
 [submodule "dotbot-vscode"]
 	path = dotbot-vscode
 	url = git@github.com:hujianxin/dotbot-vscode.git
+	branch = master
 [submodule "dotbot-rust"]
 	path = dotbot-rust
 	url = https://github.com/alexcormier/dotbot-rust
+	branch = master
 [submodule "dotbot-golang"]
 	path = dotbot-golang
 	url = https://github.com/delicb/dotbot-golang
+	branch = master
 [submodule "dotbot-duti"]
 	path = dotbot-duti
 	url = https://github.com/andrejreznik/dotbot-duti.git
+	branch = master
